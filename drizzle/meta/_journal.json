@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1717827450906,
+      "tag": "0000_natural_selene",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1717827892961,
+      "tag": "0001_majestic_random",
+      "breakpoints": true
+    }
+  ]
+}
